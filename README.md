@@ -1,5 +1,5 @@
-# JavaAdaptableGameEngine
-A basic Adaptable Game engine wrote with javaFX, learned from Lee Stemkoski. (http://www.stemkoski.net) 
+# JavaAdaptableGameEngine(BAGEL Project)
+A basic Adaptable Game engine library(BAGEL) wrote with javaFX, learned from Lee Stemkoski. (http://www.stemkoski.net) 
 
 This engine is basic, but highly adaptable. you can add few methods and build awesome simple games. 
 
